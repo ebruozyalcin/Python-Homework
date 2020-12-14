@@ -1,1 +1,1 @@
-# Python-Homework
+# Student Information System
